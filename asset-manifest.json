@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/potobutt/static/css/main.04c532dc.css",
-    "main.js": "/potobutt/static/js/main.433f13b5.js",
+    "main.js": "/potobutt/static/js/main.8e18883b.js",
     "static/js/453.1491d429.chunk.js": "/potobutt/static/js/453.1491d429.chunk.js",
     "static/media/Cantika Cute Handwriting.otf": "/potobutt/static/media/Cantika Cute Handwriting.e87d3564f6a6eb066dc8.otf",
     "index.html": "/potobutt/index.html",
     "main.04c532dc.css.map": "/potobutt/static/css/main.04c532dc.css.map",
-    "main.433f13b5.js.map": "/potobutt/static/js/main.433f13b5.js.map",
+    "main.8e18883b.js.map": "/potobutt/static/js/main.8e18883b.js.map",
     "453.1491d429.chunk.js.map": "/potobutt/static/js/453.1491d429.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.04c532dc.css",
-    "static/js/main.433f13b5.js"
+    "static/js/main.8e18883b.js"
   ]
 }
